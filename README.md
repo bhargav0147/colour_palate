@@ -1,16 +1,5 @@
-# colour_palate
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<img src="https://user-images.githubusercontent.com/119872080/222071708-614ad60f-9052-44f3-a707-4b403c85c698.png" height="30%" width="50%" >
+<img src="https://user-images.githubusercontent.com/119872080/222071768-814c53ef-3aed-493f-be0d-b261cb2f7352.png" height="30%" width="50%" >
+<img src="https://user-images.githubusercontent.com/119872080/222071902-30312a54-2b43-4a97-9e94-2194dd1690df.png" height="30%" width="50%" >
+</p>
